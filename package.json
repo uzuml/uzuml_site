@@ -1,0 +1,18 @@
+{
+  "name": "uzuml",
+  "version": "0.0.0",
+  "description": "We make low-cost professional quality websites.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+	"node":"0.10.x",
+	"npm":"1.3.x"
+  },
+  "author": "Alex Hester",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~3.4.8"
+  }
+}
